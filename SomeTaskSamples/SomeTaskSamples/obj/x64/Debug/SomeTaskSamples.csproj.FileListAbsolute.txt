@@ -1,0 +1,12 @@
+D:\CodeRes\WinForm\SomeTaskSamples\SomeTaskSamples\bin\x64\Debug\SomeTaskSamples.exe.config
+D:\CodeRes\WinForm\SomeTaskSamples\SomeTaskSamples\bin\x64\Debug\SomeTaskSamples.exe
+D:\CodeRes\WinForm\SomeTaskSamples\SomeTaskSamples\bin\x64\Debug\SomeTaskSamples.pdb
+D:\CodeRes\WinForm\SomeTaskSamples\SomeTaskSamples\obj\x64\Debug\SomeTaskSamples.csprojAssemblyReference.cache
+D:\CodeRes\WinForm\SomeTaskSamples\SomeTaskSamples\obj\x64\Debug\SomeTaskSamples.exe
+D:\CodeRes\WinForm\SomeTaskSamples\SomeTaskSamples\obj\x64\Debug\SomeTaskSamples.pdb
+D:\CodeRes\TaskSamples\SomeTaskSamples\SomeTaskSamples\bin\x64\Debug\SomeTaskSamples.exe.config
+D:\CodeRes\TaskSamples\SomeTaskSamples\SomeTaskSamples\bin\x64\Debug\SomeTaskSamples.exe
+D:\CodeRes\TaskSamples\SomeTaskSamples\SomeTaskSamples\bin\x64\Debug\SomeTaskSamples.pdb
+D:\CodeRes\TaskSamples\SomeTaskSamples\SomeTaskSamples\obj\x64\Debug\SomeTaskSamples.csprojAssemblyReference.cache
+D:\CodeRes\TaskSamples\SomeTaskSamples\SomeTaskSamples\obj\x64\Debug\SomeTaskSamples.exe
+D:\CodeRes\TaskSamples\SomeTaskSamples\SomeTaskSamples\obj\x64\Debug\SomeTaskSamples.pdb
